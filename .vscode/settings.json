@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ostream": "cpp"
+    },
+    "C_Cpp.default.configurationProvider": "BartmanAbyss.amiga-debug",
+    "cSpell.language": "en,pt-BR",
+    "C_Cpp.errorSquiggles": "disabled"
+}
